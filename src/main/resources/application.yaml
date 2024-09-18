@@ -1,0 +1,9 @@
+# spring.application.name=calorie-tracker-backend
+
+server:
+  port: 9000
+
+spring:
+  main:
+#    web-application-type: none
+    web-application-type: servlet
